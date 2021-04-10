@@ -9,5 +9,5 @@ QE/CI, Sleep, USB
 ## What doesn't seem to work:
 Brightness control
 
-## Future maintaince
+## Future maintenance
 Not gonna promise anything here. I don't own the hardware. If it works for you enjoy it, if it doesn't try to improve it on your own :)
